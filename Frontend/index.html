@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IoT Weather Forecast</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h2>IoT Weather Forecast</h2>
+        <button onclick="fetchWeatherData()">Get Latest Weather Data</button>
+        <div class="weather-data" id="weatherData">
+            <p><strong>Temperature:</strong> <span id="temperature">-</span> °C</p>
+            <p><strong>Humidity:</strong> <span id="humidity">-</span> %</p>
+            <p><strong>Pressure:</strong> <span id="pressure">-</span> hPa</p>
+            <p><strong>Timestamp:</strong> <span id="timestamp">-</span></p>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
