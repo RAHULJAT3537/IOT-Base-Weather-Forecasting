@@ -18,3 +18,7 @@ The vision of this project is to create a decentralized and transparent weather 
 - *Decentralized and Transparent:* Data can be accessed and verified by all stakeholders.
 - *Automated Alerts:* Smart contracts trigger alerts based on predefined weather conditions.
 - *Scalability:* Supports multiple IoT devices and data sources.
+  
+Contract Address:
+0x0A66e878cBFeAB2C06e8b74E71bCd7aCFee02Eeb
+![image](https://github.com/user-attachments/assets/a75bb72d-813d-4de8-8590-e9cd4554d2e3)
